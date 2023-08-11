@@ -24,7 +24,7 @@ async function getStarted(){
      rainbow.stop()
      console.log(`\u001b[40;1m ﻢﻳﺮﻜﻟﺍ ﻥﺍﺮﻘﻟﺍ ﻮﻳﺩﺍﺭ ﺕﻮﺑ\n\u001b[0m ﺔﻄﺳﺍﻮﺑ \u001b[47;1m\u001b[30;1mShuruhatik#2443\u001b[0m `)
      const ask1 = await inquirer.prompt({
-       name:"token_bot",
+       name:"MTEzODkyMzQyMDA4ODgwNzQ2Ng.GwbvvC._ogDGdTzi91rgLzLbneCAJ91qEWeEaaccW2PeI",
        type:'password',
        message:`ﻚﺑ ﺹ ﺎﺨﻟﺍ ﺕﻮﺒﻟﺍ ﻦﻛﻮﺗ ﻊﺿﻮﺑ ﻢﻗ :`,
        mask:"*"
